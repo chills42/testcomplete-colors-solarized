@@ -1,9 +1,10 @@
 # Solarized - TestComplete
 
-Solarized Color Theme ported to TestComplete
+Solarized Color Theme ported to [TestComplete](http://www.automatedqa.com/products/testcomplete/)
 
-Color Theme by [Ethan Schoonover](http://ethanschoonover.com/solarized)
-TestComplete Port done by [Craig Hills](https://github.com/chills42)
+[Color Theme](https://github.com/altercation/solarized) by [Ethan Schoonover](http://ethanschoonover.com/solarized)
+
+[TestComplete Port](https://github.com/chills42/testcomplete-colors-solarized) done by [Craig Hills](https://github.com/chills42)
 
 ## Installation
 
@@ -13,4 +14,4 @@ TestComplete Port done by [Craig Hills](https://github.com/chills42)
 4. Click Import.
 5. Enjoy!
 
-Feel free to email me with any comments at chills@gmail.com.
+Feel free to email me with any comments at [chills@gmail.com](mailto:chills@gmail.com).
